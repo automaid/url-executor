@@ -1,4 +1,6 @@
 # url-executor
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/automaid/url-executor.svg)](https://greenkeeper.io/)
 Allows fetching of one or multiple urls
 
 # API
